@@ -4,3 +4,5 @@
 
 # Controle de estoque
 ## Versão: beta
+
+Este é um sistema de controle de estoque, desenvolvido por: Renan Souza, Adriel Freitas, Kelmer Passos e Leandro Silva
